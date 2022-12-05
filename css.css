@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:  hsl(212, 45%, 89%);
+}
+
+#tela{
+    position: relative;
+    margin: auto;
+    top: 100px;
+    border-radius: 4% ;
+    background-color: white;
+    width: 650px;
+    height: 1100px;
+    padding-top: 30px;
+}
+
+img{
+    position: relative;
+    display: block;
+    border-radius: 5%;
+    margin: auto;
+    
+}
+#texto{
+    width: 480px;
+    margin: auto;
+    margin-top: 30px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Outfit', Arial;
+}
+p{
+    font-size: 40px;
+
+    text-align: center;
+    font-family: 'Outfit', Arial;
+}
